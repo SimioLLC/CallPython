@@ -1,0 +1,10 @@
+C:\Users\jsmith\Documents\SimioUserExtensions\CallPython.dll
+C:\Users\jsmith\Documents\SimioUserExtensions\CallPython.pdb
+C:\Users\jsmith\OneDrive - Simio LLC\Models\Pathmind Sample\CallPython\obj\Debug\CallPython.csprojAssemblyReference.cache
+C:\Users\jsmith\OneDrive - Simio LLC\Models\Pathmind Sample\CallPython\obj\Debug\CallPython.csproj.CoreCompileInputs.cache
+C:\Users\jsmith\OneDrive - Simio LLC\Models\Pathmind Sample\CallPython\obj\Debug\CallPython.csproj.CopyComplete
+C:\Users\jsmith\OneDrive - Simio LLC\Models\Pathmind Sample\CallPython\obj\Debug\CallPython.dll
+C:\Users\jsmith\OneDrive - Simio LLC\Models\Pathmind Sample\CallPython\obj\Debug\CallPython.pdb
+C:\Users\jsmith\OneDrive - Simio LLC\User Code\CallPython\obj\Debug\CallPython.csproj.CoreCompileInputs.cache
+C:\Users\jsmith\OneDrive - Simio LLC\User Code\CallPython\obj\Debug\CallPython.dll
+C:\Users\jsmith\OneDrive - Simio LLC\User Code\CallPython\obj\Debug\CallPython.pdb
